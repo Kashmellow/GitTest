@@ -10,3 +10,5 @@ not getting fried by Sauron
 passing past Gandalf
 Arch Linux
 Gentoo
+SEL
+Python
