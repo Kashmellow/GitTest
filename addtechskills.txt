@@ -6,3 +6,4 @@ MVC
 being a boss
 execution
 delivering the ring
+not getting fried by Sauron
