@@ -3,6 +3,3 @@ Html
 Css
 JavaScript
 MVC
-being a boss
-execution
-delivering the ring
